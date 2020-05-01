@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "trialUNIGPS"
+    }
+  },
+  "defaultProject": "trialUNIGPS",
+  "cli": {
+    "analytics": "3fe3d4af-df4e-4f2c-8910-455c8528c12c"
+  }
 }
